@@ -8,6 +8,14 @@ Think of this like a virtual PowerShell User Group, with a lightning-demo format
 
 We'll be streaming on [YouTube](https://www.youtube.com/channel/UCtHKcGei3EjxBNYQCFZ3WNQ)
 
+### When's the next PowerHour?
+
+We'll add an agenda at least a week ahead of each PowerHour.  To find the date and more details:
+
+* Check for the latest [Agenda](Agenda.md)
+* Sort for the most recent folder under materials:  For example, [materials/2018-08-21](materials/2018-08-21)
+* Watch #PSPowerHour on Twitter
+
 ### How do I submit a proposal?
 
 Just [submit an issue](https://github.com/PSPowerHour/PSPowerHour/issues/new)!
@@ -69,19 +77,6 @@ If you need more time, consider talking at a local or remote user group!
 * We'll do our best to randomize the order of speakers as much as possible while remaining mindful of and sensitive to timezones.
   * This is to ensure a spread of both speakers and topics, so we don't end up with a cluster of, for example, three related-topic-talks in a row.
   * We're also reserving the right to do a little serendipitous ordering to make demos that _are_ on related topics have a neat flow - so, for example, if one person is talking about 'what is Plaster' that talk goes before the 'tips and tricks for writing Plaster manifests' talk.
-
-### Rescheduled?  Why!
-
-So!  Let's say we have an hour.
-We ask folks for demos under 10 minutes.
-Some of the best demos I've seen have been ~5 minutes.
-If we schedule only 6 sessions (6 * 10 minutes = 1 hour), and we get a bunch of 5 minute demos, we'll miss out on the chance to have more demos!
-
-On the other hand, if we assume a 6 minute average demo (10 * 6 minutes = 1 hour), if several of those demos go up to 10 minutes, we'll go a bit beyond the scheduled hour.
-
-We'll try to keep this balanced, but there's always a chance that later sessions will be bumped. 
-You'll get precedence at the next session.
-We'll try to avoid this for folks making accomodations for our timezone (e.g. if you're demoing at midnight or 6:00 AM!)
 
 ### What happens the day of?
 
